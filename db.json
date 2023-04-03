@@ -31,15 +31,15 @@
         "VersionChanges": [
           {
             "ChangeTag": "change",
-            "ChangeDesc": "some rep shit"
+            "ChangeDesc": "some rep slur"
           },
           {
             "ChangeTag": "feature",
-            "ChangeDesc": "some update shit"
+            "ChangeDesc": "some update slur"
           },
           {
             "ChangeTag": "update",
-            "ChangeDesc": "some shit shit"
+            "ChangeDesc": "some shit slur"
           }]
       }
     ]
