@@ -25,6 +25,29 @@
             "ChangeDesc": "Changed player icon"
           }
         ]
-      }
+      },
+      {
+        "VersionId": "dev",
+        "VersionDate": "04/04/2023",
+        "VersionChanges":[
+          {
+            "ChangeTag": "feature",
+            "ChangeDesc": "Added coin item"
+          },
+          {
+            "ChangeTag": "feature",
+            "ChangeDesc": "Added faction icons"
+          },
+          {
+            "ChangeTag": "fix",
+            "ChangeDesc": "Custom tex now in atlases"
+          },
+          {
+            "ChangeTag": "upgrade",
+            "ChangeDesc": "Secret hehe"
+          }
+        ]
+      },
+
     ]
   }
