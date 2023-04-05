@@ -47,6 +47,24 @@
             "ChangeDesc": "Secret hehe"
           }
         ]
+      },
+      {
+        "VersionId": "dev",
+        "VersionDate": "05/04/2023",
+        "VersionChanges":[
+          {
+            "ChangeTag": "upgrade",
+            "ChangeDesc": "Brand new UI design (WIP)"
+          },
+          {
+            "ChangeTag": "feature",
+            "ChangeDesc": "Custom font (WIP)"
+          },
+          {
+            "ChangeTag": "feature",
+            "ChangeDesc": "UI templates created"
+          }
+        ]
       }
     ]
   }
